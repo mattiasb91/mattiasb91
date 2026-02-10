@@ -41,5 +41,5 @@ I enjoy building clean, scalable services and APIs — especially in the JavaScr
 ## 📫 Contact
 Feel free to reach out or connect!
 
-- 📧 **your-email@example.com**  
+- 📧 **mattias.bygge@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/mattias-bygge-08a06211a/
