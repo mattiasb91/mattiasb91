@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, I'm Mattias! 👋
 
-I'm **[Your Name]**, a fullstack / backend developer based in **Stockholm, Sweden**.  
+I'm a fullstack / backend developer based in **Stockholm, Sweden**.  
 I enjoy building clean, scalable services and APIs — especially in the JavaScript ecosystem.
 
 ---
