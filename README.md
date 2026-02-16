@@ -1,7 +1,6 @@
 # Hi, I'm Mattias! 👋
 
-I'm a fullstack / backend developer based in **Stockholm, Sweden**.  
-I enjoy building clean, scalable services and APIs — especially in the JavaScript ecosystem.
+I'm a fullstack / backend developer based in **Stockholm, Sweden**. 
 
 ---
 
